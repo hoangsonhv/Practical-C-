@@ -47,9 +47,9 @@ namespace T2008M_UWP_Exam
         {            
             ProductList.Items.Add(new Product
             {
-                Name = "Sample 1",
-                Description = "Lorem ipsum",
-                ImagePath = "Assets/LockScreenLogo.scale-200.png"
+                Name = "Bánh Ngọt",
+                Description = "Product Active",
+                ImagePath = "Assets/banhngot.jpg"
             });            
         }
 
